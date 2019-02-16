@@ -1,0 +1,42 @@
+// Objetos
+AddSimpleModel(-1, 5340, -1001, "objetos/modshop/modlas2.dff", "objetos/modshop/lasground2_las2.txd");
+AddSimpleModel(-1, 5779, -1002, "objetos/modshop/garagdoor1_lawn.dff", "objetos/modshop/garaged_lawn.txd");
+AddSimpleModel(-1, 10575, -1003, "objetos/modshop/modshopdoor1_sfs.dff", "objetos/modshop/subshops_sfs.txd");
+AddSimpleModel(-1, 11313, -1004, "objetos/modshop/modshopdoor_sfse.dff", "objetos/modshop/carshow_sfse.txd");
+AddSimpleModel(-1, 9093, -1005, "objetos/modshop/cmdgrgdoor_lvs.dff", "objetos/modshop/vgselckupgrgdr.txd");
+AddSimpleModel(-1, 5422, -1006, "objetos/payspray/laespraydoor1.dff", "objetos/payspray/idlewood6_lae.txd");
+AddSimpleModel(-1, 5856, -1007, "objetos/payspray/lawnspraydoor1.dff", "objetos/payspray/garag3_lawn.txd");
+AddSimpleModel(-1, 6400, -1008, "objetos/payspray/spraydoor_law2.dff", "objetos/payspray/beafron2_law2.txd");
+AddSimpleModel(-1, 11319, -1009, "objetos/payspray/sprayshpdr2_sfse.dff", "objetos/payspray/carshow_sfse.txd");
+AddSimpleModel(-1, 9625, -1010, "objetos/payspray/spdr_sfw.dff", "objetos/payspray/garage_sfw.txd");
+AddSimpleModel(-1, 7891, -1011, "objetos/payspray/vgwspry1.dff", "objetos/payspray/vegasbuild.txd");
+AddSimpleModel(-1, 13028, -1012, "objetos/payspray/ce_spraydoor1.dff", "objetos/payspray/ce_payspray.txd");
+AddSimpleModel(-1, 3294, -1013, "objetos/payspray/cxf_spraydoor1.dff", "objetos/payspray/cxrf_payspray.txd");
+AddSimpleModel(-1, 5043, -1014, "objetos/modbomb/bombdoor_las.dff", "objetos/modbomb/shopliquor_las.txd");
+AddSimpleModel(-1, 19379, -1014, "objetos/textdraws/object.dff", "objetos/textdraws/server_interface.txd");
+//1016
+//1017
+AddSimpleModel(-1, 5409, -1018, "objetos/postosul/postosul.dff", "objetos/postosul/txdpostosul.txd");
+AddSimpleModel(-1, 14668, -1019, "objetos/postosul/interiorpostosul.dff", "objetos/postosul/txdpostosul.txd");
+AddSimpleModel(-1, 14819, -1020, "objetos/postosul/portapostosul.dff", "objetos/postosul/txdportapostosul.txd");
+AddSimpleModel(-1, 19379, -1021, "objetos/textdraws/object.dff", "objetos/textdraws/daily.txd");
+AddSimpleModel(-1, 1544, -1022, "objetos/inventario/bottlemodel.dff", "objetos/inventario/aqua.txd");
+AddSimpleModel(-1, 1544, -1023, "objetos/inventario/bottlemodel.dff", "objetos/inventario/cola.txd");
+AddSimpleModel(-1, 19078, -1024, "objetos/pombo/parrot.dff", "objetos/pombo/parrot.txd");
+AddSimpleModel(-1, 4858, -1025, "objetos/unity_park/unitypark.dff", "objetos/unity_park/unitypark.txd"); 
+
+//Cellphone
+AddSimpleModel(-1, 19379, -2000, "objetos/textdraws/object.dff", "objetos/textdraws/cellphone.txd");
+
+//Police Objects
+AddSimpleModel(-1, 1238, -3000, "objetos/police_objects/cone.dff", "objetos/police_objects/cone.txd");
+AddSimpleModel(-1, 1949, -3001, "objetos/police_objects/cavalete.dff", "objetos/police_objects/cavalete.txd");
+AddSimpleModel(-1, 19962, -3002, "objetos/police_objects/placa_1.dff", "objetos/police_objects/placa_1_police_checkpoint.txd");
+AddSimpleModel(-1, 19981, -3003, "objetos/police_objects/placa_2.dff", "objetos/police_objects/placa_2_desvio.txd");
+AddSimpleModel(-1, 19981, -3004, "objetos/police_objects/placa_2.dff", "objetos/police_objects/placa_2_desvio_dir.txd");
+AddSimpleModel(-1, 19981, -3005, "objetos/police_objects/placa_2.dff", "objetos/police_objects/placa_2_desvio_esq.txd");
+AddSimpleModel(-1, 19834, -3006, "objetos/police_objects/faixa_amarela.dff", "objetos/police_objects/faixa_amarela.txd");
+
+// Custom
+AddCharModel(124, 20000, "staff_custom/staff-1.dff", "staff_custom/staff-1.txd");
+AddCharModel(123, 20001, "staff_custom/staff-2.dff", "staff_custom/staff-2.txd");
